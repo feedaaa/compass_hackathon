@@ -29,6 +29,6 @@ Deepen your esports knowledge.
 Connect with fellow fans and players.
 Shape the future of Compass with your contributions.
 
-## [Link to the Mockup](https://www.figma.com/design/so3bIE2i1W4m8T46e7C621/Untitled?node-id=1-6&t=ypUTllwf6zoseVYU-1)
+## [Link to the Mockup](https://www.figma.com/proto/so3bIE2i1W4m8T46e7C621/Untitled?node-id=1-6&t=hMuuJ809WE6mY5Uw-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A306&show-proto-sidebar=1)
 
 ## [Link to some mini game MVPs](https://drive.google.com/drive/folders/1HJXOvEE-ykOkvGiM5f7w81EyHiBvjtyW?usp=drive_link)
